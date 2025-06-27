@@ -54,7 +54,7 @@ The project leverages state-of-the-art GAN architectures, integrates multiple at
 | :--: | :--: |
 | ![img](./readme_images/GhibliReal.png) | ![img](./readme_images/Ghibli.png) |
 
-> *More examples and a live demo are available on the [project web app](https://huggingface.co/spaces/AaSiKu/EE655_project).*
+> *More examples and a live demos are available on the [Age_convertor web app](https://huggingface.co/spaces/AaSiKu/EE655_project) and [Real_to_Ghibli_web_app](https://huggingface.co/spaces/Muon-Rancour/Real_To_Ghibli_Convertor_App).*
 
 ## System Architecture
 
