@@ -1,5 +1,7 @@
 # Multi-Style Image Generation using StyleGANs
 
+Link to Demo: [Age_convertor web app](https://huggingface.co/spaces/AaSiKu/EE655_project)
+
 ## Table of Contents
 
 - [Multi-Style Image Generation using StyleGANs](#multi-style-image-generation-using-stylegans)
@@ -27,7 +29,8 @@
 
 **Multi-Style Image Generation using StyleGANs** is an advanced machine learning project focused on unpaired image-to-image translation for facial images. It demonstrates:
 
-- **Age Manipulation:** Realistic, identity-preserving transformation of faces between young and old domains.
+- **Age Manipulation:** Realistic, identity-preserving transformation of faces between young and old domains.  
+**Link to demo: [Age_convertor web app](https://huggingface.co/spaces/AaSiKu/EE655_project)**
 - **Ghibli-Style Conversion:** High-fidelity translation of real faces into Studio Ghibli-inspired anime style, and vice versa.
 
 The project leverages state-of-the-art GAN architectures, integrates multiple attention mechanisms, and is built with production-grade practices for data handling, code modularity, and documentation—making it ideal for showcasing ML expertise in internship applications.
